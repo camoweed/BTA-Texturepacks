@@ -1,0 +1,11 @@
+{
+    "description": {
+        "name": "3D Rotating Icecream",
+        "line1": "Replaces bucket of ice cream",
+        "line2": "",
+        "packVersion": "",
+	"format": 4,
+        "min_format": 3,
+        "max_format": 4
+    }
+}
