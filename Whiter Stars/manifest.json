@@ -1,0 +1,11 @@
+{
+    "description": {
+        "name": "Whiter Stars",
+        "line1": "Removes coloured stars.",
+        "line2": "",
+        "packVersion": "8.0",
+        "format": 4,
+        "min_format": 3,
+        "max_format": 4
+    }
+}
