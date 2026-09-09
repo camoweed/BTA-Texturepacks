@@ -4,7 +4,7 @@
         "line1": "Replaces bucket of ice cream",
         "line2": "",
         "packVersion": "",
-	"format": 4,
+	"format": 3,
         "min_format": 3,
         "max_format": 4
     }
