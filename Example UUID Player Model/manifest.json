@@ -1,0 +1,9 @@
+{
+    "description": {
+        "name": "Example UUID Player Model",
+        "line1": "Set to target 2 players with custom models and textures.",
+        "line2": "Swap them for you and your bud!!!!",
+        "packVersion": "8.0",
+        "format": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "model_paths": [
+	"/assets/minecraft/models/entity/__Yojin__.geo.json"
+    ],
+    "custom_player_models": {
+        "19c2e35e-f52f-4bf5-b790-c8572f916387": {
+            "main": "geometry.player.base.yojin"            
+        }
+    }
+}

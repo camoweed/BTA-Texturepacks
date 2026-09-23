@@ -1,0 +1,26 @@
+{
+    "model_paths": [
+        "/assets/minecraft/models/entity/humanoid.geo.json",
+        "/assets/minecraft/models/entity/player/player.geo.json"
+    ],
+        "renderers": {
+            "minecraft:player": {
+            "main":"geometry.blocked",
+            "main.slim":"geometry.blocked",
+            "arms":"geometry.player.base.steve.arms",
+            "arms.slim":"geometry.player.base.alex.arms",
+            "cape":"geometry.player.cape",
+            "armor.boots":{"model":"geometry.blocked.armour", "inflation": 0},
+            "armor.leggings":{"model":"geometry.blocked.armour", "inflation": 0},
+            "armor.chestplate":{"model":"geometry.blocked.armour", "inflation": 0},
+            "armor.helmet":{"model":"geometry.blocked.armour", "inflation": 0}
+        },
+        "minecraft:human": {
+            "main":"geometry.blocked",
+            "main.slim":"geometry.blocked",
+            "arms":"geometry.player.base.steve.arms",
+            "arms.slim":"geometry.player.base.alex.arms",
+            "cape":"geometry.player.cape"
+        }
+}
+}

@@ -1,0 +1,23 @@
+{
+  "mob.player.masculine.hurt": {
+"replace": true,
+    "subtitle": "subtitles.mob.player.hurt",
+    "sounds": [
+      "mob/player/masc_hurt_CS.ogg"
+    ]
+  },
+"random.bite": {
+"replace": true,
+    "subtitle": "subtitles.random.bite",
+    "sounds": [
+      "random/bite_CS.ogg"
+    ]
+  },
+  "random.bite_extended": {
+"replace": true,
+    "subtitle": "subtitles.random.bite",
+    "sounds": [
+      "random/bite_CS.ogg"
+    ]
+  }
+}
